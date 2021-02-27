@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0373AEE7-2461-4A62-8CEA-F5C886C1296D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Programming_II_2021_01/Program.cs">
+    <Files>
+      <File FileName="Programming_II_2021_01/Program.cs" Line="7" Column="41" />
+      <File FileName="Programming_II_2021_01/University/Student.cs" />
+      <File FileName="Programming_II_2021_01/University/Course.cs" />
+      <File FileName="Programming_II_2021_01/University/Allocation.cs" />
+      <File FileName="Programming_II_2021_01/University/Program.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Programming__II__2021__01 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
