@@ -1,0 +1,44 @@
+================= Mar, Fri 5, 2021 =================
+Farmers-company
+1. Create a new Visual Studio Project. This project should be named: "farm_company_v1"
+	The system must include the following clases. This is not a final version, you are going to need
+	to implement your own changes.
+		1. Farmer
+			Name
+			Stratum
+			Gender
+		2. Product
+			Name// (e.g. potatoes, tomatoes... etc)
+			UnitPrice //lb
+			UnitPerKilometer
+			CropExtensionKms
+			TaxPerUnitPercentage //Tax per each produced crop unit.
+		3. Crop
+			Product (instance of the Product class)
+			Extension //km.
+
+There is a company that buys the farmers' production. The Company makes a discount on the
+total amount of the sale, this discount is regarding the taxes.
+This company offers some aids over the taxes to the farmers under the following restrictions:
+	1. If the farmer is a woman (the company gives and aid of 50% of the taxes costs).
+		(e.g). See attached document. "TODOS/Farmer-company/Farmer-company-sample.xlsx"
+
+Additional restrictions:
+	1. One single farmer might have more than 1 crop. (e.g. Farmer Pepito, has 3 crops: (tomatoes, strawberries, pinapple))
+	2. The Farmers' Company buys the crop production to a wide variety of farmers.
+
+The Farmers' Company has hired you to develop a software that must include the following functionalities:
+	1. How much money must be pay to a farmer who wants to sell many different products crops.
+	2. Total of money that must be pay to the entire set of farmers.
+	3. General information regarding the sell with the lowest price. (e.g.) check attached sample document.
+
+Constraints
+	1. The code must be uploaded to git hub in a repository named: "farm_company_v1".
+	2. Deadline: Mar, Fri 5, 2021.
+	3. This project must be developed individually.
+	4. The student should create at least 
+		- 5 farmers
+		- 7 crops
+		- 5 sales
+	5. Project working screenshots must be uploaded to GitHub. One screenshot for every requirement 
+	   (In this case 3 screenshots)
