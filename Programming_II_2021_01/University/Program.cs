@@ -3,7 +3,7 @@ namespace Programming_II_2021_01.University
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main2ß(string[] args)
         {
             Faculty faculty = new Faculty();
 

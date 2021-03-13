@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{0373AEE7-2461-4A62-8CEA-F5C886C1296D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Programming_II_2021_01/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Programming_II_2021_01/FarmersCompany/Program.cs">
     <Files>
-      <File FileName="Programming_II_2021_01/Program.cs" Line="7" Column="41" />
-      <File FileName="Programming_II_2021_01/University/Student.cs" />
-      <File FileName="Programming_II_2021_01/University/Course.cs" />
-      <File FileName="Programming_II_2021_01/University/Allocation.cs" />
-      <File FileName="Programming_II_2021_01/University/Program.cs" />
+      <File FileName="Programming_II_2021_01/FarmersCompany/Program.cs" Line="29" Column="34" />
+      <File FileName="Programming_II_2021_01/FarmersCompany/FarmerCompany.cs" />
+      <File FileName="Programming_II_2021_01/FarmersCompany/Farmer.cs" />
+      <File FileName="Programming_II_2021_01/FarmersCompany/Crop.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
