@@ -81,6 +81,35 @@ Create new project
 		3. Application working screenshots must be attached. A single screenshot for any new requirement.
 		4. Arrays must be applied to code the solution.
 
-=============================== Grades ===============================
+================= Mar, Fri 26, 2021 =================
+Operations with lists (using lists and nodes as we covered in class)
+Create any class representation (e.g.: Appointment (day, time...), e.g. (Product: name, price). Create a product or appointment class is banned.
+Creat a program with the following operations, according with the operations we studied in class:
+1. Add
+2. Print
+3. Given an element (insert) and a reference element (after), the "insert" should be inserted after the "after" element.
+  (e.g)
+  Insert new element				
+		original list				
+		1	2	7	9	
+		
+		insert	5	
+		after	7	
+		
+		result list				
+		1	2	7	5	9
+		
+Constraints:
+		1. Individual
+		2. New gitHub project "list-basic-operations"
+		3. Application working screenshots must be attached. A single screenshot for any new requirement.
+		4. don't use arrays
+		5. Use list (as we covered in class)
+		6. Create your own node class as we did in class
+		7. Create your own list class as we did in class
+		8. Don't use native "List" class. (e.g.) List c#.
+		9. Create example data (objects) (as well as we did in class)
+
+=============================== Schedule ===============================
 Grade 1: April 10: 60%
 Grade 2: May 22: 40%
