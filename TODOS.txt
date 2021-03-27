@@ -110,6 +110,29 @@ Constraints:
 		8. Don't use native "List" class. (e.g.) List c#.
 		9. Create example data (objects) (as well as we did in class)
 
+================= Apr, Fri 09, 2021 =================
+1. Create a "Store system"
+2. Create new GitHub repository "store-system-list"
+3. the system should have a list of "Products"
+4. the system should have a list of "Clients"
+5. the system should have a list of "Sales". Each sale has 1 customer and many products (list)
+6. Calculations:
+	6.1 Total amount of sales
+	6.2. Customer name who has made the biggest purchase.
+	6.3. Product that is getting more sales
+	6.4. Sales average
+	6.5. Products stock: Inform existences for each product
+	6.6. Insert and delete customers
+	6.7. Insert and delete products
+	6.8. Create new sales (the amount of products must be taken into account)
+	
+
+Constraints:
+1. Do not use out of the box lists. Do not use the "List" class.
+2. Individually
+3. Screenshots must be attached.
+
+
 =============================== Schedule ===============================
 Grade 1: April 10: 60%
 Grade 2: May 22: 40%
